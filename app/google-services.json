@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942809271234",
+    "firebase_url": "https://locatefamily-6681c.firebaseio.com",
+    "project_id": "locatefamily-6681c",
+    "storage_bucket": "locatefamily-6681c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942809271234:android:0f3d866b66739b9d",
+        "android_client_info": {
+          "package_name": "familia.user.locatefamily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942809271234-162qmk2bohlcaqaiappk0ngdh5k45eg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "familia.user.locatefamily",
+            "certificate_hash": "8b7941e2a8860030f43e928db0e927404c7c60e1"
+          }
+        },
+        {
+          "client_id": "942809271234-se832d03319st9uqng34f3eb3clc6cu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysD4sayIbuKQeLQj1RRjvwEwxNK5V1Ik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942809271234-se832d03319st9uqng34f3eb3clc6cu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
